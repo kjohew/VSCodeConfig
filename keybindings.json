@@ -1,0 +1,27 @@
+// 将按键绑定配置放入此文件中即可覆盖默认值
+[
+    {
+        "key": "alt+b",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "ctrl+k ctrl+l",
+        "command": "workbench.action.toggleSidebarPosition"
+    },
+    {
+        "key": "ctrl+k ctrl+a",
+        "command": "workbench.action.openSettings"
+    },
+    {
+        "key": "ctrl+,",
+        "command": "-workbench.action.openSettings"
+    },
+    {
+        "key": "ctrl+down",
+        "command": "workbench.action.togglePanelPosition"
+    },
+    {
+        "key": "ctrl+right",
+        "command": "workbench.action.togglePanelPosition"
+    }
+]
